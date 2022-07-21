@@ -1,4 +1,4 @@
-# ddc-copyright-header
+# ddc-copyright-head
 
 Library to add copyright and license header to "js", "jsx","ts","tsx","html" and "css" files in the project
 
@@ -10,15 +10,15 @@ with NPM 5.5.1 or higher.
 ## Quick Overview
 
 ```sh
-npx ddc-copyright-header --generate
+npx ddc-copyright-head --generate
 ```
 
 ## Installation
 
-install ddc-copyright-header is to use it. For Linux `sudo` may be required:
+install ddc-copyright-head is to use it. For Linux `sudo` may be required:
 
 ```
-npm install -install ddc-copyright-header
+npm -install ddc-copyright-head
 ```
 
 Create a file in the root directory of your application that ddc-copyright-creator will use to generate copyright content:

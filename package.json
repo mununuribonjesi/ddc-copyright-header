@@ -1,5 +1,5 @@
 {
-  "name": "ddc-copyright-header",
+  "name": "ddc-copyright-head",
   "version": "1.0.0",
   "description": "",
   "main": "bin/index.js",
@@ -12,7 +12,7 @@
   },
   "preferGlobal": true,
   "bin": {
-    "create-copyright-header": "./bin/index.js"
+    "ddc-copyright-head": "./bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
