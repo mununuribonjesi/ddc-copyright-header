@@ -1,10 +1,10 @@
 # ddc-copyright-header
 
-This is CLI - to add copyright and license header to all files in the project
+Library to add copyright and license header to "js", "jsx","ts","tsx","html" and "css" files in the project
 
 ## Prerequisites
 
-CLI require Node 8.9 or higher, together
+This requires Node 8.9 or higher, together
 with NPM 5.5.1 or higher.
 
 ## Quick Overview
