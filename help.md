@@ -5,7 +5,7 @@ Create a txt file named copyrightHeader.txt in the root directory of your applic
 
 Usage: npx  ddc-copyright-head --generate
 
-ddc-copyright-head is a tool for generating copyright & license header, based on the copyrightHeader.txt file in the root directory of your application
+ddc-copyright-head is a tool for generating copyright & license header, based on the "copyright-config.json" file in the root directory of your application
 
 
 For more https://github.com/mununuribonjesi/ddc-copyright-header

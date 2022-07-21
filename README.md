@@ -21,7 +21,7 @@ install ddc-copyright-head to use it. For Linux `sudo` may be required:
 npm -install ddc-copyright-head
 ```
 
-Create a file named "copyrightConfig.json" in the root of your application to setup the configuration that ddc-copyright-head needs to create a copy right header for your files:
+Create a file named "copyright-config.json" in the root of your application to setup the configuration that ddc-copyright-head needs to create a copy right header for your files:
 
 ```
 {
@@ -42,6 +42,6 @@ Create a file named "copyrightConfig.json" in the root of your application to se
     ]
 }
 ```
-you can update the copyrightContent, fileTypes and folderExcludeList in your "copyrightConfig.json" file to suit your needs.
+you can update the copyrightContent, fileTypes and folderExcludeList in your "copyright-config.json" file to suit your needs.
 
 
